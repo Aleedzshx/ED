@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\bin\Debug\RegistroDeEMpleado.exe.config
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\bin\Debug\RegistroDeEMpleado.exe
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\bin\Debug\RegistroDeEMpleado.pdb
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\obj\Debug\RegistroDeEMpleado.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\obj\Debug\RegistroDeEMpleado.Form1.resources
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\obj\Debug\RegistroDeEMpleado.Properties.Resources.resources
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\obj\Debug\RegistroDeEMpleado.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\obj\Debug\RegistroDeEMpleado.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\obj\Debug\RegistroDeEMpleado.exe
+C:\Users\user\Downloads\WinFromsC#\RegistroDeEMpleado\RegistroDeEMpleado\obj\Debug\RegistroDeEMpleado.pdb
